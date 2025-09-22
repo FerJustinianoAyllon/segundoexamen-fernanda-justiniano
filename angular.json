@@ -27,7 +27,8 @@
               }
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.css",
+              "src/styles.css"
             ],
             "server": "src/main.server.ts",
             "outputMode": "server",
@@ -45,8 +46,8 @@
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "4kB",
-                  "maximumError": "8kB"
+                  "maximumWarning": "2MB",
+                  "maximumError": "2MB"
                 }
               ],
               "outputHashing": "all",
@@ -87,7 +88,8 @@
               }
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.css",
+              "src/styles.css"
             ]
           }
         }
