@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1758586580114,
+  "index": "/segundoexamen-fernanda-justiniano/index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/segundoexamen-fernanda-justiniano/css/styles.css",
+        "/segundoexamen-fernanda-justiniano/favicon.ico",
+        "/segundoexamen-fernanda-justiniano/index.html",
+        "/segundoexamen-fernanda-justiniano/js/scripts.js",
+        "/segundoexamen-fernanda-justiniano/main-ADDIQRIT.js",
+        "/segundoexamen-fernanda-justiniano/manifest.webmanifest",
+        "/segundoexamen-fernanda-justiniano/styles-522L2TP7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/segundoexamen-fernanda-justiniano/assets/favicon.ico",
+        "/segundoexamen-fernanda-justiniano/assets/img/bg-masthead.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/BCAA.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/aminoenergy.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/celltech.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/elitewhey.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/isocool.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/massgainer.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/nitrotech.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/BCAA.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/aminoenergy.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/celltech.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/elitewhey.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/massgainer.jpg",
+        "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/nitrotech.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/segundoexamen-fernanda-justiniano/assets/favicon.ico": "122f443e27953c1fda437a6a0db20a990ee543d4",
+    "/segundoexamen-fernanda-justiniano/assets/img/bg-masthead.jpg": "b9bbdcd769d5552707a04ec8c4c3b6f0fb66b00e",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/BCAA.jpg": "9002a943beabfd8efba01d02118f017603a9ec4d",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/aminoenergy.jpg": "5c46911c4170984b43f457865ea364d132e7e3a5",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/celltech.jpg": "23818cdd819c2d5fa111635ef05bd210582a5495",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/elitewhey.jpg": "c35487fa883c57d85c5034a01b52e41eec4f1adc",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/isocool.jpg": "2659a475ce71634bf354d5693bb62a3f2c7b4b9f",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/massgainer.jpg": "0c7650bfed3039d02b368b1c3e1aed1a586a8cad",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/fullsize/nitrotech.jpg": "d792d874c946a56507ea742f1cfa04a4f090cc9d",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/BCAA.jpg": "9002a943beabfd8efba01d02118f017603a9ec4d",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/aminoenergy.jpg": "5c46911c4170984b43f457865ea364d132e7e3a5",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/celltech.jpg": "23818cdd819c2d5fa111635ef05bd210582a5495",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/elitewhey.jpg": "c35487fa883c57d85c5034a01b52e41eec4f1adc",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/massgainer.jpg": "0c7650bfed3039d02b368b1c3e1aed1a586a8cad",
+    "/segundoexamen-fernanda-justiniano/assets/img/portfolio/thumbnails/nitrotech.jpg": "d792d874c946a56507ea742f1cfa04a4f090cc9d",
+    "/segundoexamen-fernanda-justiniano/css/styles.css": "6cd753b96c01a32bf18efb5bfa09a37e244604e0",
+    "/segundoexamen-fernanda-justiniano/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/segundoexamen-fernanda-justiniano/index.html": "3b123bbbab28f77aec61da3d72886e0ce248e5cf",
+    "/segundoexamen-fernanda-justiniano/js/scripts.js": "c2899de742b5bfbf9602b9092876d188643c01ab",
+    "/segundoexamen-fernanda-justiniano/main-ADDIQRIT.js": "406271f6b7014c2b49c98016a54e61a5da14d66a",
+    "/segundoexamen-fernanda-justiniano/manifest.webmanifest": "45456961fb5bf81b67f9f6e352236473fa360012",
+    "/segundoexamen-fernanda-justiniano/styles-522L2TP7.css": "c7dbb453d8f696ff2748ff1f2fa083179779610a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
